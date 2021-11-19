@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @F22Skyler
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning on how to be a Web Developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning on CyberSecurity
 - 📫 How to reach me Twitter:f22skyler
 
 <!---
